@@ -4,10 +4,15 @@
     alt="Hmm... got it." />
 </p>
 
-<img align="right" width="330"
-  src="https://count.getloli.com/@hmmgotit-profile?theme=moebooru"
-  alt="Profile visits" />
+<img align="left" width="202" height="44"
+  src="./assets/less-is-more.svg" alt="less is more" />
 
-<p>less is more</p>
+<p align="right">
+  <img width="176"
+    src="https://count.getloli.com/@hmmgotit-profile?theme=normal-2&amp;padding=4"
+    alt="Profile visits" /><br />
+  <img width="176" height="117"
+    src="./assets/fat-blue-whale.png" alt="Pixel-art blue whale holding up its fins" />
+</p>
 
 <br clear="both" />

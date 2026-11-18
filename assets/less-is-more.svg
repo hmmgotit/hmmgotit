@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="202" height="44" viewBox="0 0 202 44" role="img" aria-labelledby="label">
+  <title id="label">less is more</title>
+  <rect x="0.5" y="0.5" width="201" height="43" rx="21.5" fill="#F3EDFF" stroke="#D6C5FB"/>
+  <path d="M22 13.5c0 5.25 3.25 8.5 8.5 8.5-5.25 0-8.5 3.25-8.5 8.5 0-5.25-3.25-8.5-8.5-8.5 5.25 0 8.5-3.25 8.5-8.5Z" fill="#7C52D5"/>
+  <text x="40" y="28" fill="#4C2C91" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace" font-weight="700" font-size="19">less is more</text>
+</svg>
