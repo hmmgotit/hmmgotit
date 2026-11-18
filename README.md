@@ -8,8 +8,8 @@
   src="./assets/less-is-more.svg" alt="less is more" />
 
 <p align="right">
-  <img align="middle" width="100" height="179"
-    src="./assets/whale-chan.png" alt="DeepSeek Whale-chan" />&nbsp;
+  <img align="middle" width="135" height="179"
+    src="./assets/lion-dance-whale-chan.png" alt="Lion dance Whale-chan" />&nbsp;
   <img align="middle" width="116"
     src="https://count.getloli.com/@hmmgotit-profile?theme=normal-2&amp;padding=4"
     alt="Profile visits" />
