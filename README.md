@@ -8,11 +8,11 @@
   src="./assets/less-is-more.svg" alt="less is more" />
 
 <p align="right">
-  <img width="176"
+  <img align="middle" width="100" height="179"
+    src="./assets/whale-chan.png" alt="DeepSeek Whale-chan" />&nbsp;
+  <img align="middle" width="116"
     src="https://count.getloli.com/@hmmgotit-profile?theme=normal-2&amp;padding=4"
-    alt="Profile visits" /><br />
-  <img width="176" height="117"
-    src="./assets/fat-blue-whale.png" alt="Pixel-art blue whale holding up its fins" />
+    alt="Profile visits" />
 </p>
 
 <br clear="both" />
